@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">USB Setting</string>
+
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="usb_not_plugged">Please connect to computer with USB cable and try again</string>
+</resources>
